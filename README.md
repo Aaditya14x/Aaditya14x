@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn.dribbble.com%2Fusers%2F1059583%2Fscreenshots%2F4171367%2Fcoding-freak_still_2x.gif%3Fresize%3D400x300%26vertical%3Dcenter&tbnid=-l6xkS0VDo1pVM&vet=12ahUKEwipiM602qGBAxV8SmwGHTRjAncQMygSegQIARB6..i&imgrefurl=https%3A%2F%2Fdribbble.com%2Fhalfpsyched%2Fcollections%2F3363251-Coder&docid=HgqOhVVK770reM&w=800&h=600&q=coding%20programmer%20animated&hl=en&ved=2ahUKEwipiM602qGBAxV8SmwGHTRjAncQMygSegQIARB6 " /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aaditya14x" alt="aaditya14x" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aaditya14v" alt="aaditya14v" /></a> </p>
 
 - 💬 Ask me about **DBMS ,Python ,OOPs Concept , Discrete Mathematics , Engineering Mathematics ,AI Tools**
 
