@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aaditya14v" alt="aaditya14v" /></a> </p>
 
-- 💬 Ask me about **DBMS ,Python ,OOPs Concept , Discrete Mathematics , Engineering Mathematics ,AI Tools**
+- 💬 Ask me about **Prompt Engineering, Data Analysis and Business Analysis**
 
 - 📫 How to reach me **Dubeyjiiii420@gmail.com**
 
